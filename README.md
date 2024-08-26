@@ -1,2 +1,3 @@
-<h1> Primer proyecto - Portafolio</h1>
+<h1 align="center"> Primer proyecto - Portafolio</h1>
 - Estado del proyecto: Finalizado.
+

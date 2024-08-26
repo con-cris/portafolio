@@ -6,4 +6,4 @@ Se muestra un portafolio de Ana García
 Aca estoy editando nuevamente el README
 
 
-Actulización del portafolio 2
+Actuliazación del portafolio 2
